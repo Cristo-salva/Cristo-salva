@@ -1,8 +1,8 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Cristo-salva/Cristo-salva/blob/main/Ciência de Dados e Inteligência Artificial com foco em análise de dados.png" />
-&nbsp;&nbsp;&nbsp;
+<!--<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Cristo-salva/Cristo-salva/blob/main/Ciência de Dados e Inteligência Artificial com foco em análise de dados.png" />
+&nbsp;&nbsp;&nbsp;-->
 
 
-<p align="center">Sou estatistico e ❤️ análise de dados. Gosto de aprender e colocar a mão na massa!</p>&nbsp;
+<p align="center">Sou Ediney! Estatístico e ❤️ análise de dados. Gosto de aprender e colocar a mão na massa!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Cristo-salva&theme=radical&mode=weekly" />
@@ -32,8 +32,9 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+Ciência de dados
+<!--![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;-->
 
 #### Databases:
 
