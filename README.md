@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil! Sou um profissional com sólida experiência em **Ge
 
 ### 🚀 Minha Jornada Atual em Tecnologia
 
-Estou totalmente imerso no ecossistema de dados e tecnologia, aprimorando minhas habilidades através de formações robustas:
+Estou totalmente imerso em de dados e tecnologia, aprimorando minhas habilidades através das formações:
 
 - 🎓 **Tecnologia em Inteligência Artificial e Ciências de Dados** no Instituto Federal de Mato Grosso (IFMT)
 - 🎓 **Pós-Graduação Lato Sensu em Internet das Coisas (IoT)** no Instituto Federal de Rondônia (IFRO)
